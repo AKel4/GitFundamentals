@@ -8,7 +8,7 @@ You can attach a name and branch name to your command to specify where you're pu
 git push origin main
 ```
 
-This command will push the **main** brand to the remote caleed **origin**. This means any commits that are in your local willbe **pushed** to the remote.
+This command will push the **main** brand to the remote called **origin**. This means any commits that are in your local will be **pushed** to the remote.
 
 ### Upstream Tracking
 
